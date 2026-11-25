@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 **Computer Science Student | IT Systems | Cybersecurity | Embedded Development**
 
-I enjoy building useful software, exploring how systems work, and turning ideas into real projects.
-
 I'm a Computer Science student at Hochschule Hof, Germany, with a completed vocational qualification as an IT specialist for system integration.
 
 My interests range from Linux/MacOS infrastructure and cybersecurity to embedded applications, cloud technologies and game development.
