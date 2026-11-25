@@ -33,6 +33,8 @@ My interests range from Linux/MacOS infrastructure and cybersecurity to embedded
 - 🎮 **Game Development:** Working on 3D game mechanics and interactive environments with Godot.
 - 🤖 **AI-assisted Development:** Exploring how AI tools can support software development, testing and automation.
 
+---
+
 ### 🛠️ Tools & Technologies
 
 **Programming:** C/C++ · Python · JavaScript · TypeScript · Java · GDScript
@@ -40,6 +42,8 @@ My interests range from Linux/MacOS infrastructure and cybersecurity to embedded
 **Systems & Infrastructure:** MacOS · Linux (Ubuntu, Kali Linux) · Docker · Kubernetes · Git
 
 **Development:** GitHub · Godot 4 · Flipper Zero SDK
+
+---
 
 ### 🌱 A Bit About Me
 
