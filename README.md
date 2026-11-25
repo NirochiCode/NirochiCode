@@ -55,4 +55,4 @@ My interests range from Linux/MacOS infrastructure and cybersecurity to embedded
 
 ---
 
-*Always learning. Always building.*
+*Always learning 🧑‍💻. Always building 🛠️.*
