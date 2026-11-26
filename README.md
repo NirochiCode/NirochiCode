@@ -45,10 +45,10 @@ My interests range from Linux/MacOS infrastructure and cybersecurity to embedded
 
 ### 🌱 A Bit About Me
 
-- 🐈 I like Cats
-- 🍥 Love watching Anime
-- 🕹️ Active Gamer (PS5, PC)
-- 🥷 Like Cybersecurity and Experimenting on Software
+- 🐈 I like cats
+- 🍥 Love watching anime
+- 🕹️ Active gamer (PS5, PC)
+- 🥷 Like cybersecurity and experimenting on software
 - 💻 I like experimenting with hardware and open-source tools.
 
 ---
